@@ -1,2 +1,2 @@
-# fantasy
-fantasy football tools
+# fantasy tools
+Some fantasy football tools
